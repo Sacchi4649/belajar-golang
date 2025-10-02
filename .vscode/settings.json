@@ -1,0 +1,27 @@
+{
+  // Gunakan formatter Go bawaan (dari extension "Go")
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+
+  // Secara umum aktifkan formatOnSave
+  "editor.formatOnSave": true,
+
+  // Tentukan tool format yang dipakai (opsi: gofmt, goimports, goreturns)
+  "go.formatTool": "goimports",
+
+  // Aktifkan linting agar lebih rapih (opsional, tapi bagus untuk gaya kode)
+  "go.lintTool": "golangci-lint",
+  "go.lintOnSave": "package",
+
+  // Go test & build auto detection
+  "go.testOnSave": true,
+  "go.testFlags": ["-v"]
+
+  // Jalur GOPATH (kalau masih pakai GOPATH mode, biasanya Go module sudah cukup)
+  // "go.gopath": "D:/Projects/go"
+}
