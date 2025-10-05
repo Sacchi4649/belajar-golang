@@ -1,3 +1,3 @@
-module hello-world
+module golang-standard-library
 
 go 1.25.1
