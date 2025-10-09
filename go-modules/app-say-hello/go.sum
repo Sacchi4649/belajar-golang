@@ -1,2 +1,6 @@
 github.com/Sacchi4649/say-hello-app v0.0.0-20251008110957-72aab452bea4 h1:tEDCqbFMsdgRTMprS9UXUc+pCR9Ip7LPeumRK5Bm+nA=
 github.com/Sacchi4649/say-hello-app v0.0.0-20251008110957-72aab452bea4/go.mod h1:nmwlMJ1XYMdvOtDKnhoGalXcHinQqoRkvYwk4Jbj6Mo=
+github.com/Sacchi4649/say-hello-app v1.0.0 h1:CpDV5QXCDZwP4kOLyBHdFs62j8oUkbVdx/+iw0RyBoo=
+github.com/Sacchi4649/say-hello-app v1.0.0/go.mod h1:nmwlMJ1XYMdvOtDKnhoGalXcHinQqoRkvYwk4Jbj6Mo=
+github.com/Sacchi4649/say-hello-app/v2 v2.0.0 h1:X07yTLceJkLuT7fAXz064En8iDdjFIyQbht/p9MstQQ=
+github.com/Sacchi4649/say-hello-app/v2 v2.0.0/go.mod h1:1kX88zrInjLmDVhAVquHj1Zc0xupgo1xsycLHhSFbrQ=
